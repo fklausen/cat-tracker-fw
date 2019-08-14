@@ -79,3 +79,5 @@ Kconfig*                                  @SebastianBoe
 /tests/                                   @rakons
 /zephyr/                                  @carlescufi
 
+# CI
+/.circleci/                               @coderbyheart
