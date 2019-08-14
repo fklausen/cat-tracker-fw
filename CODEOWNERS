@@ -80,8 +80,9 @@ Kconfig*                                  @SebastianBoe
 /tests/                                   @rakons
 /zephyr/                                  @carlescufi
 
-# CI
+# CI & Semantic Releases
 /.circleci/                               @coderbyheart
 commitlint.config.js                      @coderbyheart
 package.json                              @coderbyheart
 package-lock.json                         @coderbyheart
+.gitmessage                               @coderbyheart
