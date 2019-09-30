@@ -55,7 +55,8 @@ enum cloud_endpoint {
 	CLOUD_EP_TOPIC_PAIR,
 	CLOUD_EP_TOPIC_BATCH,
 	CLOUD_EP_URI,
-	CLOUD_EP_COUNT
+	CLOUD_EP_BATCH,
+	CLOUD_EP_COUNT,
 };
 
 /**@brief Cloud pairing type. */
