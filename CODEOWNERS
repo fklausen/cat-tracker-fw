@@ -81,8 +81,9 @@ Kconfig*                                  @SebastianBoe
 /zephyr/                                  @carlescufi
 
 # CI & Semantic Releases
-/.circleci/                               @coderbyheart
-commitlint.config.js                      @coderbyheart
-package.json                              @coderbyheart
-package-lock.json                         @coderbyheart
-.gitmessage                               @coderbyheart
+/.github                                  @coderbyheart
+/commitlint.config.js                     @coderbyheart
+/package.json                             @coderbyheart
+/package-lock.json                        @coderbyheart
+/.gitmessage                              @coderbyheart
+/README.md                                @coderbyheart
