@@ -1,0 +1,21 @@
+#
+# Copyright (c) 2019 Nordic Semiconductor ASA
+#
+# SPDX-License-Identifier: LicenseRef-BSD-5-Clause-Nordic
+#
+
+menu "Cloud Simple Sample Settings"
+
+config CLOUD_MESSAGE
+	string "Custom message published periodically to cloud"
+	default "Hello Internet of Things!"
+
+config CLOUD_MESSAGE_PUBLICATION_INTERVAL
+	int "How often the custom message should be published to cloud"
+	default 10
+
+endmenu
+
+menu "Zephyr Kernel"
+source "$ZEPHYR_BASE/Kconfig.zephyr"
+endmenu
