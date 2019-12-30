@@ -1,4 +1,4 @@
-# Cat Tracker Firmware
+# Cat Tracker Firmware.
 
 [![GitHub Actions](https://github.com/bifravst/cat-tracker-fw/workflows/Build%20and%20Release/badge.svg)](https://github.com/bifravst/cat-tracker-fw/actions)
 [![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
